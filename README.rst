@@ -18,3 +18,8 @@ Overview
 Segments a 3D image from foreground and background seeds.
 
 ITKGrowCut is a remote module for ITK. It segments a 3D image from user-provided foreground and background seeds.
+
+Acknowledgements
+----------------
+
+This software was developed in part by the Center for Integrative Biomedical Computing (CIBC) and the `Scientific Computing and Imaging (SCI) Institute <https://www.sci.utah.edu/cibc>`_ and `Kitware <https://www.kitware.com>`_.  Support came from the National Institute of General Medical Sciences of the National Institutes of Health under grant numbers P41 GM103545 and R24 GM136986.
